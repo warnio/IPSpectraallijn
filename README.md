@@ -1,0 +1,3 @@
+# Spectraallijn experiment van Inleidend Practicum
+
+Dit is mijn git repository van het spectraallijn experiment van het vak Inleidend practicum. Neuzel neuzel...
